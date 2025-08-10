@@ -1,4 +1,4 @@
-TempGBA version 1.45, 2013-09-14!
+TempGBA version 1.45, 2013-09-14
 
 A Game Boy Advance emulator for the Supercard DSTWO.
 
@@ -201,4 +201,5 @@ Here's what each DS button would do in this example:
   if you didn't, the solution would be to map DS button L to GBA button R or
   remove the override on GBA button L.
 * Select and Start behave as expected.
+
 
