@@ -1,7 +1,7 @@
 TempGBA version 1.45, 2013-09-14
 
 A Game Boy Advance emulator for the Supercard DSTWO.
-1
+
 Based on:
 * gameplaySP (gpSP) 0.9 by Exophase, with help from various GBA developers
 * gpSP Kai unofficial 3.3 by Takka
